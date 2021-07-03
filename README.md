@@ -6,9 +6,9 @@
 #### Step 3 : Added minimax algorithm with alpha-beta pruning
 
 ## Screenshots :
-### Start
+### Start :
 ![Start](https://github.com/kapilbhise/connect-4/blob/master/pygame%20window%2003-07-2021%2016_21_59.png?raw=true)
-### Mid
+### Mid :
 ![Mid](https://github.com/kapilbhise/connect-4/blob/master/pygame%20window%2003-07-2021%2016_22_47.png?raw=true)
 ### End : AI WINS(PLAYER 2)
 ![End](https://github.com/kapilbhise/connect-4/blob/master/pygame%20window%2003-07-2021%2016_41_10.png?raw=true)
