@@ -13,6 +13,6 @@
 ### End : AI WINS(PLAYER 2)
 ![End](https://github.com/kapilbhise/connect-4/blob/master/pygame%20window%2003-07-2021%2016_41_10.png?raw=true)
 
-##### references : Keith Galli youtube channel
+##### references : Keith Galli youtube channel and medium blogs
 
 ## Thank You!
